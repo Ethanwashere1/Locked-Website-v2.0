@@ -29,8 +29,8 @@
  *
  * ------------------------------------------------------------------- */
 
-@import url("font-awesome/css/font-awesome.min.css");
-@import url("micons/micons.css");
+@import url("font-awesome.min.css");
+@import url("micons.css");
 @import url("fonts.css");
 
 
@@ -1158,10 +1158,10 @@ h1.intro-header::before {
   padding: 0;
   outline: 0;
   border: none;
-  width: 97px;
-  height: 22px;
-  background: url("../images/logo.png") no-repeat center;
-  background-size: 97px 22px;
+  width: 120px;
+  height: 110px;
+  background: url("https://cdn.discordapp.com/attachments/1038294295863627828/1177087479778660442/Untitled_Artwork.png?ex=65c449a4&is=65b1d4a4&hm=352bacc80ef412e08b9a13850c1735777ad829f481b4213b4ba4663cbb075b87&") no-repeat center;
+  background-size: 120px 110px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -2530,11 +2530,11 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 #download .download-badges li a.badge-appstore {
-  background-image: url("../images/appstore.png");
+  background-image: url("appstore.png");
 }
 
 #download .download-badges li a.badge-googleplay {
-  background-image: url("../images/google-play.png");
+  background-image: url("google-play.png");
 }
 
 
@@ -2615,10 +2615,10 @@ footer ul a:visited {
   padding: 0;
   outline: 0;
   border: none;
-  width: 93px;
-  height: 21px;
-  background: url("../images/logo.png") no-repeat center;
-  background-size: 93px 21px;
+  width: 120px;
+  height: 110px;
+  background: url("https://cdn.discordapp.com/attachments/1038294295863627828/1177087479778660442/Untitled_Artwork.png?ex=65c449a4&is=65b1d4a4&hm=352bacc80ef412e08b9a13850c1735777ad829f481b4213b4ba4663cbb075b87&") no-repeat center;
+  background-size: 120px 110px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -2659,7 +2659,7 @@ footer ul a:visited {
   width: 100%;
   height: 5.4rem;
   padding: 1.2rem 100px 1.2rem 60px;
-  background: url(../images/email-icon.png) 20px center no-repeat, rgba(0, 0, 0, 0.1);
+  background: url(email-icon.png) 20px center no-repeat, rgba(0, 0, 0, 0.1);
   background-size: 24px 16px, auto;
   margin-bottom: 1.8rem;
   color: rgba(255, 255, 255, 0.5);
