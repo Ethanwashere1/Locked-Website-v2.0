@@ -1297,11 +1297,11 @@ h1.intro-header::before {
 
 #header-nav-wrap .header-main-nav li a:hover,
 #header-nav-wrap .header-main-nav li a:focus {
-  color: #ffffff;
+  color: #DD9AC2FF;
 }
 
 #header-nav-wrap .header-main-nav li.current a {
-  color: #ffffff;
+  color: #DD9AC2FF;
 }
 
 #header-nav-wrap .cta {
@@ -2567,7 +2567,7 @@ footer {
   padding-bottom: 4.2rem;
   font-size: 1.5rem;
   line-height: 2.7rem;
-  color: #E3DAC8;
+  color: rgba(255, 255, 255, 0.25);
 }
 
 footer a,
@@ -2610,7 +2610,7 @@ footer ul li {
 
 footer ul a,
 footer ul a:visited {
-  color: #E3DAC8;
+  color: rgba(255, 255, 255, 0.25);
 }
 
 .footer-logo {
@@ -2760,7 +2760,7 @@ footer ul a:visited {
   line-height: 60px;
   text-align: center;
   background: #E3DAC8;
-  color: rgba(255, 255, 255, 0.5);
+  color: #E3DAC8;
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
