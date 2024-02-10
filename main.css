@@ -2593,7 +2593,7 @@ footer h4::before {
   display: block;
   width: 120px;
   height: 1px;
-  background-color: #E3DAC8;
+  background-color: rgba(255, 255, 255, 0.05);
   position: absolute;
   left: 0;
   bottom: 0;
@@ -2666,7 +2666,7 @@ footer ul a:visited {
   background: url(email-icon.png) 20px center no-repeat, rgba(0, 0, 0, 0.1);
   background-size: 24px 16px, auto;
   margin-bottom: 1.8rem;
-  color: #E3DAC8;
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .footer-subscribe #mc-form input[type="email"]:focus {
@@ -2730,7 +2730,7 @@ footer ul a:visited {
   content: "|";
   display: inline-block;
   padding: 0 1rem 0 1.2rem;
-  color: #E3DAC8;
+  color: rgba(255, 255, 255, 0.1);
 }
 
 .footer-bottom .copyright span:last-child::after {
@@ -2760,7 +2760,7 @@ footer ul a:visited {
   line-height: 60px;
   text-align: center;
   background: #E3DAC8;
-  color: #E3DAC8;
+  color: rgba(255, 255, 255, 0.5);
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
@@ -2839,11 +2839,11 @@ footer ul a:visited {
   }
   .footer-main ul.list-links li a {
     display: block;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    border-bottom: 1px solid black;
     padding: .6rem 0;
   }
   .footer-main ul.list-links li:first-child a {
-    border-top: 1px solid rgba(255, 255, 255, 0.03);
+    border-top: 1px solid black;
   }
   .footer-contact,
   .footer-site-links,
