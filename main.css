@@ -1292,7 +1292,7 @@ h1.intro-header::before {
 
 #header-nav-wrap .header-main-nav li a,
 #header-nav-wrap .header-main-nav li a:visited {
-  color: black;
+  color: #343434;
 }
 
 #header-nav-wrap .header-main-nav li a:hover,
