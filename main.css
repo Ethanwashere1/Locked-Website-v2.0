@@ -1242,7 +1242,7 @@ h1.intro-header::before {
 
 .header-menu-toggle.is-clicked span::before,
 .header-menu-toggle.is-clicked span::after {
-  background-color: white;
+  background-color: #DD9AC2FF;
 }
 
 .header-menu-toggle.is-clicked span::before {
@@ -1292,7 +1292,7 @@ h1.intro-header::before {
 
 #header-nav-wrap .header-main-nav li a,
 #header-nav-wrap .header-main-nav li a:visited {
-  color: rgba(255, 255, 255, 0.45);
+  color: black;
 }
 
 #header-nav-wrap .header-main-nav li a:hover,
